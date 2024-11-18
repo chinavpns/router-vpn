@@ -1,6 +1,6 @@
 # 路由器翻墙教程：2024年最好用的路由器VPN推荐
 
-<p align="center">最近更新于：2024年10月10日</p>
+<p align="center">最近更新于：2024年11月18日</p>
 
 ![路由器翻墙教程：最好用的路由器VPN推荐](https://raw.githubusercontent.com/chinavpns/router-vpn/refs/heads/main/image/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B.png)
 
@@ -105,7 +105,7 @@ ExpressVPN的连接速度在VPN行业中名列前茅，无论是本地连接还�
 * TP-Link、D-Link和Xiaomi：这些品牌的部分型号也支持ExpressVPN，可以通过手动配置VPN来满足使用需求。
 * 第三方固件：ExpressVPN还支持通过DD-WRT、Tomato和OpenWRT等第三方固件手动配置，使其适用于更多型号的路由器，满足高阶用户的需求。
 
-ExpressVPN为用户提供24小时全天候在线客户支持，帮助解决使用过程中的任何问题，同时还提供30天无条件退款保证。如果用户在使用期间不满意，可以随时申请全额退款。此外，通过我们的优惠链接订购12个月的ExpressVPN套餐，还可额外免费获得3个月的使用时间，进一步提升性价比。
+ExpressVPN为用户提供24小时全天候在线客户支持，帮助解决使用过程中的任何问题，同时还提供30天无条件退款保证。如果用户在使用期间不满意，可以随时申请全额退款。此外，ExpressVPN现在推出黑五钜惠，购买两年套餐，额外赠送6个月，每月仅需4.99美元；购买一年套餐，额外赠送4个月，每月仅需6.25美元。进一步提升性价比。
 
 **<p align="center"><a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN，30天免费</a></p>**
 
