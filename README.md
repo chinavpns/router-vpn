@@ -290,4 +290,4 @@ TP-Link的一些路由器型号，如Archer C7、Archer A7、Archer C1200、Arch
 
 * <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2024年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
 
-* <a href=https://github.com/chinavpns/chatgpt-plus>国内ChatGPT Plus购买教程</a>：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号，以及通过专业代充值平台完成ChatGPT Plus充值。
+* <a href=https://github.com/chinavpns/chatgpt-plus>GPT Plus充值</a>：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号，以及通过专业代充值平台完成ChatGPT Plus充值。
