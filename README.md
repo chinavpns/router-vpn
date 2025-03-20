@@ -287,6 +287,10 @@ TP-Link的一些路由器型号，如Archer C7、Archer A7、Archer C1200、Arch
 
 * <a href="https://github.com/chinavpns/expressvpn">ExpressVPN中国评测</a>：ExpressVPN怎么样？ExpressVPN国内能用吗？ExpressVPN在中国稳定吗？ExpressVPN连不上网怎么办？ExpressVPN如何申请退款？接下来，本文将从不同角度对ExpressVPN进行全面解析，深入解答这些常见问题，帮助你更清楚地了解这款VPN工具的实际表现！
 
+* <a href="https://github.com/chinavpns/strongvpn">StrongVPN中国评测</a>：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？（注意：StrongVPN支持支付宝付款）
+
+* <a href="https://github.com/chinavpns/purevpn">PureVPN中国评测</a>：最新PureVPN评测：PureVPN中国能用吗？PureVPN怎么样？PureVPN中国连不上怎么办？PureVPN安全吗？PureVPN可以翻墙回国吗？
+
 * <a href="https://github.com/chinavpns/speedin-vpn">快帆VPN评测</a>：快帆好用吗？快帆VPN安全吗？本文包含最新的快帆VPN优惠券和快帆VPN兑换码信息。此外，我们还将详细解答快帆和穿梭哪个好、快帆不能用了吗、快帆VPN连不上怎么办等常见问题。
 
 * <a href="https://github.com/chinavpns/telegram">Telegram注册</a>：2025年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
