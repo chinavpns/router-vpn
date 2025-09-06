@@ -1,6 +1,6 @@
 # <p align="center">路由器翻墙教程：2025年最好用的路由器VPN推荐</p>
 
-<p align="center">最近更新于：2025年8月14日</p>
+<p align="center">最近更新于：2025年9月6日</p>
 
 ![路由器翻墙教程：最好用的路由器VPN推荐](https://raw.githubusercontent.com/chinavpns/router-vpn/refs/heads/main/image/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B.png)
 
@@ -96,7 +96,7 @@ ExpressVPN的服务器遍布全球105个国家，总数超过3000台。尤其是
 
 ExpressVPN的连接速度在VPN行业中名列前茅，无论是本地连接还是长距离连接，性能都非常稳定。使用Lightway协议后，速度损失控制在20%以内，而本地服务器的速度损失通常仅为12-15%，这使得ExpressVPN特别适合观看高清视频、进行在线游戏和下载大文件。即使在网络状况不理想的情况下，ExpressVPN也能提供流畅的使用体验，确保用户享受高速、安全的网络连接。
 
-兼容性是ExpressVPN的一大优势，它支持Windows、Mac、iOS、Android和Linux等常见操作系统，并且允许最多8台设备同时连接，充分满足家庭和个人用户的多样化需求。此外，ExpressVPN在路由器方面的支持也非常广泛，兼容的品牌和型号覆盖以下几大类别：
+兼容性是ExpressVPN的一大优势，它支持Windows、Mac、iOS、Android和Linux等常见操作系统，并且允许最多10台设备同时连接，充分满足家庭和个人用户的多样化需求。此外，ExpressVPN在路由器方面的支持也非常广泛，兼容的品牌和型号覆盖以下几大类别：
 
 * Asus：多款型号兼容ExpressVPN，如RT-AC56U、RT-AC68U和RT-AC87U等。这些型号支持ExpressVPN的自定义固件，也可以使用Merlin固件来增强功能。
 * Linksys：包括EA6200、WRT1200AC、WRT1900AC（所有版本）、WRT1900ACS、WRT3200ACM和WRT32X等多款型号，用户可以轻松安装ExpressVPN的自定义固件。
@@ -104,7 +104,7 @@ ExpressVPN的连接速度在VPN行业中名列前茅，无论是本地连接还�
 * TP-Link、D-Link和Xiaomi：这些品牌的部分型号也支持ExpressVPN，可以通过手动配置VPN来满足使用需求。
 * 第三方固件：ExpressVPN还支持通过DD-WRT、Tomato和OpenWRT等第三方固件手动配置，使其适用于更多型号的路由器，满足高阶用户的需求。
 
-ExpressVPN为用户提供24小时全天候在线客户支持，帮助解决使用过程中的任何问题，同时还提供30天无条件退款保证。如果用户在使用期间不满意，可以随时申请全额退款。此外，**ExpressVPN现在推出黑五钜惠，购买两年套餐，额外赠送6个月，每月仅需4.99美元**；购买一年套餐，额外赠送4个月，每月仅需6.25美元。
+ExpressVPN为用户提供24小时全天候在线客户支持，帮助解决使用过程中的任何问题，同时还提供30天无条件退款保证。如果用户在使用期间不满意，可以随时申请全额退款。此外，**ExpressVPN现在推出限时优惠活动，购买两年套餐，额外赠送4个月，每月仅需3.49美元**；购买一年套餐，额外赠送3个月，每月仅需4.99美元。
 
 **<p align="center"><a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN，30天免费</a></p>**
 
