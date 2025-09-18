@@ -1,6 +1,6 @@
 # <p align="center">路由器翻墙教程：2025年最好用的路由器VPN推荐</p>
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月18日</p>
 
 ![路由器翻墙教程：最好用的路由器VPN推荐](https://raw.githubusercontent.com/chinavpns/router-vpn/refs/heads/main/image/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B.png)
 
